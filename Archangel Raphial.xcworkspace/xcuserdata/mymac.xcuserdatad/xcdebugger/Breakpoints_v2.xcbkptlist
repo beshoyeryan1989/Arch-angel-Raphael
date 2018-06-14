@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/CustomCell.swift"
+            timestampString = "532308902.271465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CustomCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.CustomCell.eventdotview.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/CustomCell.swift"
+                  timestampString = "532308902.321378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.CustomCell.eventdotview.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/CustomCell.swift"
+                  timestampString = "532308902.325759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.CustomCell.init(frame: __C.CGRect) -&gt; Archangel_Raphial.CustomCell"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/CustomCell.swift"
+                  timestampString = "532308902.334307"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.CustomCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Archangel_Raphial.CustomCell&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/CustomCell.swift"
+                  timestampString = "532308902.337679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/AnnouncementViewController.swift"
+            timestampString = "537694083.293406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/SignInViewController.swift"
+            timestampString = "537694083.293485"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/SignInViewController.swift"
+            timestampString = "537694083.293547"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "SignIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/SignInViewController.swift"
+            timestampString = "537694083.293602"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "signFromfetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/calendarViewController.swift"
+            timestampString = "532672234.26416"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "calendarViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.Userid.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.727864"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.Userid.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.729704"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Archangel_Raphial.calendarViewController"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.731621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1299">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Archangel_Raphial.calendarViewController&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.733439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1235">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Archangel Raphial/calendarViewController.swift"
+            timestampString = "532672234.264237"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "calendarViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.ref.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.DatabaseReference&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.74089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.ref.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.DatabaseReference&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.743576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Archangel_Raphial.calendarViewController"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.746629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Archangel_Raphial.calendarViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Archangel_Raphial.calendarViewController&gt;"
+                  moduleName = "Archangel Raphial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mymac/Developer/Archangel%20Raphial/Archangel%20Raphial/calendarViewController.swift"
+                  timestampString = "532599740.748995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

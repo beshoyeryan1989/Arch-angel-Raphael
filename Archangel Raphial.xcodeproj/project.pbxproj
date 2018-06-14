@@ -7,15 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F2750841FB95C22004A4EBF /* customTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2750831FB95C22004A4EBF /* customTableViewCell.swift */; };
+		1F40939A1F47DE9C00679751 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1F4093991F47DE9C00679751 /* GoogleService-Info.plist */; };
+		1F40939E1F47E52000679751 /* AddEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F40939D1F47E52000679751 /* AddEvent.swift */; };
 		1F64B6411F32F91A001F4550 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F64B6401F32F91A001F4550 /* AppDelegate.swift */; };
 		1F64B6431F32F91A001F4550 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F64B6421F32F91A001F4550 /* ViewController.swift */; };
 		1F64B6461F32F91A001F4550 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F64B6441F32F91A001F4550 /* Main.storyboard */; };
 		1F64B6491F32F91A001F4550 /* Archangel_Raphial.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1F64B6471F32F91A001F4550 /* Archangel_Raphial.xcdatamodeld */; };
 		1F64B64B1F32F91A001F4550 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F64B64A1F32F91A001F4550 /* Assets.xcassets */; };
 		1F64B64E1F32F91A001F4550 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F64B64C1F32F91A001F4550 /* LaunchScreen.storyboard */; };
+		1F7A3CCF1F4CCCC70085E5B4 /* AddAnnouncementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7A3CCE1F4CCCC60085E5B4 /* AddAnnouncementViewController.swift */; };
+		1F7A3CD11F4CE88E0085E5B4 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7A3CD01F4CE88E0085E5B4 /* SignInViewController.swift */; };
+		1F7F84A91F48FACD0081A821 /* AnnouncementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7F84A81F48FACD0081A821 /* AnnouncementViewController.swift */; };
+		1FDB57261F3984EF00E1B5D7 /* calendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDB57251F3984EF00E1B5D7 /* calendarViewController.swift */; };
+		1FF4B5831F3AD867000D63A6 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF4B5821F3AD867000D63A6 /* CustomCell.swift */; };
+		1FFBF72B1F357E7C00ECA3DB /* ContactUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFBF72A1F357E7C00ECA3DB /* ContactUsViewController.swift */; };
+		1FFBF72E1F357EA400ECA3DB /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FFBF72D1F357EA400ECA3DB /* MapKit.framework */; };
+		1FFBF7301F35824800ECA3DB /* contactUsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFBF72F1F35824800ECA3DB /* contactUsData.swift */; };
+		1FFBF7321F35A1E500ECA3DB /* broadcastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFBF7311F35A1E500ECA3DB /* broadcastViewController.swift */; };
+		5304171ED7E414DEF500F79F /* Pods_Archangel_Raphial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62E038888D1116A94A732AD3 /* Pods_Archangel_Raphial.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0CC20F57000207ED71C818C4 /* Pods-Archangel Raphial.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Archangel Raphial.release.xcconfig"; path = "Pods/Target Support Files/Pods-Archangel Raphial/Pods-Archangel Raphial.release.xcconfig"; sourceTree = "<group>"; };
+		1F2750831FB95C22004A4EBF /* customTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customTableViewCell.swift; sourceTree = "<group>"; };
+		1F3553FB200C197200E6B95E /* Archangel Raphial.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Archangel Raphial.entitlements"; sourceTree = "<group>"; };
+		1F4093991F47DE9C00679751 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		1F40939D1F47E52000679751 /* AddEvent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddEvent.swift; sourceTree = "<group>"; };
 		1F64B63D1F32F91A001F4550 /* Archangel Raphial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Archangel Raphial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F64B6401F32F91A001F4550 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1F64B6421F32F91A001F4550 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +42,17 @@
 		1F64B64A1F32F91A001F4550 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F64B64D1F32F91A001F4550 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F64B64F1F32F91A001F4550 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F7A3CCE1F4CCCC60085E5B4 /* AddAnnouncementViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddAnnouncementViewController.swift; sourceTree = "<group>"; };
+		1F7A3CD01F4CE88E0085E5B4 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		1F7F84A81F48FACD0081A821 /* AnnouncementViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnnouncementViewController.swift; sourceTree = "<group>"; };
+		1FDB57251F3984EF00E1B5D7 /* calendarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = calendarViewController.swift; sourceTree = "<group>"; };
+		1FF4B5821F3AD867000D63A6 /* CustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		1FFBF72A1F357E7C00ECA3DB /* ContactUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactUsViewController.swift; sourceTree = "<group>"; };
+		1FFBF72D1F357EA400ECA3DB /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		1FFBF72F1F35824800ECA3DB /* contactUsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contactUsData.swift; sourceTree = "<group>"; };
+		1FFBF7311F35A1E500ECA3DB /* broadcastViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = broadcastViewController.swift; sourceTree = "<group>"; };
+		62E038888D1116A94A732AD3 /* Pods_Archangel_Raphial.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Archangel_Raphial.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BF787B1C927A5D0C6F0AB2F /* Pods-Archangel Raphial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Archangel Raphial.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Archangel Raphial/Pods-Archangel Raphial.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +60,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FFBF72E1F357EA400ECA3DB /* MapKit.framework in Frameworks */,
+				5304171ED7E414DEF500F79F /* Pods_Archangel_Raphial.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +73,8 @@
 			children = (
 				1F64B63F1F32F91A001F4550 /* Archangel Raphial */,
 				1F64B63E1F32F91A001F4550 /* Products */,
+				1FFBF72C1F357EA400ECA3DB /* Frameworks */,
+				82E332586E925AFFFC5884E6 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +89,45 @@
 		1F64B63F1F32F91A001F4550 /* Archangel Raphial */ = {
 			isa = PBXGroup;
 			children = (
+				1F3553FB200C197200E6B95E /* Archangel Raphial.entitlements */,
 				1F64B6401F32F91A001F4550 /* AppDelegate.swift */,
 				1F64B6421F32F91A001F4550 /* ViewController.swift */,
+				1FFBF72A1F357E7C00ECA3DB /* ContactUsViewController.swift */,
+				1FFBF72F1F35824800ECA3DB /* contactUsData.swift */,
+				1FFBF7311F35A1E500ECA3DB /* broadcastViewController.swift */,
+				1FDB57251F3984EF00E1B5D7 /* calendarViewController.swift */,
+				1F40939D1F47E52000679751 /* AddEvent.swift */,
+				1F7A3CD01F4CE88E0085E5B4 /* SignInViewController.swift */,
+				1F2750831FB95C22004A4EBF /* customTableViewCell.swift */,
+				1F7F84A81F48FACD0081A821 /* AnnouncementViewController.swift */,
+				1F7A3CCE1F4CCCC60085E5B4 /* AddAnnouncementViewController.swift */,
+				1FF4B5821F3AD867000D63A6 /* CustomCell.swift */,
 				1F64B6441F32F91A001F4550 /* Main.storyboard */,
 				1F64B64A1F32F91A001F4550 /* Assets.xcassets */,
 				1F64B64C1F32F91A001F4550 /* LaunchScreen.storyboard */,
+				1F4093991F47DE9C00679751 /* GoogleService-Info.plist */,
 				1F64B64F1F32F91A001F4550 /* Info.plist */,
 				1F64B6471F32F91A001F4550 /* Archangel_Raphial.xcdatamodeld */,
 			);
 			path = "Archangel Raphial";
+			sourceTree = "<group>";
+		};
+		1FFBF72C1F357EA400ECA3DB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FFBF72D1F357EA400ECA3DB /* MapKit.framework */,
+				62E038888D1116A94A732AD3 /* Pods_Archangel_Raphial.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		82E332586E925AFFFC5884E6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9BF787B1C927A5D0C6F0AB2F /* Pods-Archangel Raphial.debug.xcconfig */,
+				0CC20F57000207ED71C818C4 /* Pods-Archangel Raphial.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +137,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1F64B6521F32F91A001F4550 /* Build configuration list for PBXNativeTarget "Archangel Raphial" */;
 			buildPhases = (
+				E6CB53F2109F0303A42D5BB4 /* [CP] Check Pods Manifest.lock */,
 				1F64B6391F32F91A001F4550 /* Sources */,
 				1F64B63A1F32F91A001F4550 /* Frameworks */,
 				1F64B63B1F32F91A001F4550 /* Resources */,
+				B354D1AC6F26884911E8ACF1 /* [CP] Embed Pods Frameworks */,
+				FABA55A24A0DE7BCFFBD2434 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -99,7 +165,17 @@
 				TargetAttributes = {
 					1F64B63C1F32F91A001F4550 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 7J95PEKJGP;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -127,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F64B64E1F32F91A001F4550 /* LaunchScreen.storyboard in Resources */,
+				1F40939A1F47DE9C00679751 /* GoogleService-Info.plist in Resources */,
 				1F64B64B1F32F91A001F4550 /* Assets.xcassets in Resources */,
 				1F64B6461F32F91A001F4550 /* Main.storyboard in Resources */,
 			);
@@ -134,14 +211,86 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		B354D1AC6F26884911E8ACF1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Archangel Raphial/Pods-Archangel Raphial-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/JTAppleCalendar/JTAppleCalendar.framework",
+				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JTAppleCalendar.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Archangel Raphial/Pods-Archangel Raphial-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E6CB53F2109F0303A42D5BB4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Archangel Raphial-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FABA55A24A0DE7BCFFBD2434 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Archangel Raphial/Pods-Archangel Raphial-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1F64B6391F32F91A001F4550 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F7F84A91F48FACD0081A821 /* AnnouncementViewController.swift in Sources */,
 				1F64B6431F32F91A001F4550 /* ViewController.swift in Sources */,
+				1FFBF7301F35824800ECA3DB /* contactUsData.swift in Sources */,
 				1F64B6491F32F91A001F4550 /* Archangel_Raphial.xcdatamodeld in Sources */,
 				1F64B6411F32F91A001F4550 /* AppDelegate.swift in Sources */,
+				1F7A3CCF1F4CCCC70085E5B4 /* AddAnnouncementViewController.swift in Sources */,
+				1FDB57261F3984EF00E1B5D7 /* calendarViewController.swift in Sources */,
+				1FFBF7321F35A1E500ECA3DB /* broadcastViewController.swift in Sources */,
+				1F7A3CD11F4CE88E0085E5B4 /* SignInViewController.swift in Sources */,
+				1F2750841FB95C22004A4EBF /* customTableViewCell.swift in Sources */,
+				1F40939E1F47E52000679751 /* AddEvent.swift in Sources */,
+				1FF4B5831F3AD867000D63A6 /* CustomCell.swift in Sources */,
+				1FFBF72B1F357E7C00ECA3DB /* ContactUsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,8 +413,11 @@
 		};
 		1F64B6531F32F91A001F4550 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9BF787B1C927A5D0C6F0AB2F /* Pods-Archangel Raphial.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Archangel Raphial/Archangel Raphial.entitlements";
+				DEVELOPMENT_TEAM = 7J95PEKJGP;
 				INFOPLIST_FILE = "Archangel Raphial/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "BeshoyKaldas.Archangel-Raphial";
@@ -276,8 +428,11 @@
 		};
 		1F64B6541F32F91A001F4550 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0CC20F57000207ED71C818C4 /* Pods-Archangel Raphial.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Archangel Raphial/Archangel Raphial.entitlements";
+				DEVELOPMENT_TEAM = 7J95PEKJGP;
 				INFOPLIST_FILE = "Archangel Raphial/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "BeshoyKaldas.Archangel-Raphial";
@@ -305,6 +460,7 @@
 				1F64B6541F32F91A001F4550 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
